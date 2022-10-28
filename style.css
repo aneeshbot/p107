@@ -1,0 +1,20 @@
+body
+{
+color:rgb(255, 187, 0);
+background: linear-gradient(#0a3ee7 0%,#00ff0d 100% );
+}
+.heading
+{
+width: 80%;
+font-size:22px;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_member, #result_member_name , #result_member_accuracy
+{
+    color:rgb(231, 81, 194)
+}
